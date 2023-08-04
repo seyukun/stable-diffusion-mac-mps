@@ -1,0 +1,3 @@
+(worst quality, low quality:1.4), EasyNegative,
+(broken hand, bad fingers, bad anatomy, missing fingers),
+watermark, text, ((wearing clothes)), ((any shirt))
