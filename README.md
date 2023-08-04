@@ -16,6 +16,6 @@ python .
 Edit `config.py`
 
 ## Prompt
-Edit `prompt.txt`
-Edit `prompt.ng.txt`
+Edit `prompt.txt`  
+Edit `prompt.ng.txt`  
 (❌R-18❌) Default value is a naked female prompt
