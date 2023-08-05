@@ -15,7 +15,7 @@ if [ ! -d "images" ]; then
 fi
 echo "
 source .venv/bin/activate.fish
-pip install diffusers accelerate transformers
+pip install -r requirements.txt
 " | fish
 
 echo "__________ DO THIS __________"
